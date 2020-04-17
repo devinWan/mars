@@ -6,7 +6,7 @@ https://blog.csdn.net/xwnxwn/article/details/52529417
 
 ## 2.进入到父pom目录下,执行mvn archetype:create-from-project
 
-##3.在target目录中的archetype目录生成模板
+## 3.在target目录中的archetype目录生成模板
 
 1. 使用mvn clean install 安装本地仓库中
 2. 命令执行
